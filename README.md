@@ -1,4 +1,5 @@
 # Awesome-MCRS
+Written by [Jin-Duk Park](https://jindeok.github.io/jdpark/)
 1. Introducing multi-criteria recommender system (MCRS) Papers 
 2. Implementation of multi-criteria recommender system (MCRS) baselines
 
