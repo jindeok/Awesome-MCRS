@@ -8,8 +8,8 @@
 1. (TBD) Ours
 2. Shambour Qusai. "A deep learning based algorithm for multi-criteria recommender systems."
       <details><summary><b>Show details</b></summary>
-* Knowledge-Based Systems 2021 
-* 43 citation, update: 22.11.23
+      * Knowledge-Based Systems 2021  <br>
+      * 43 citation, update: 22.11.23
       </details>
 3. Chen, Zhengyu, Ziqing Xu, and Donglin Wang. "Deep transfer tensor decomposition with orthogonal constraint for recommender systems." 
       <details><summary><b>Show details</b></summary>
