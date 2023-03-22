@@ -40,11 +40,4 @@ Written by [Jin-Duk Park](https://jindeok.github.io/jdpark/)
 
 
 
-## Running Dependancies
-
-* Ours : numpy, pandas, torch
-* AEMC : numpy, pandas, torch
-* DMCF : ...
-* DTTF : ...
-
 
