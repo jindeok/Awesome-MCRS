@@ -1,5 +1,5 @@
 # Awesome-MCRS
-Written by [Jin-Duk Park](https://jindeok.github.io/jdpark/)
+Written by [Jin-Duk Park](https://jindeok.github.io/jdpark/)   
 Introduction of multi-criteria recommender system (MCRS) Papers 
 
 
